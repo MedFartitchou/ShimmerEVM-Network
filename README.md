@@ -1,8 +1,8 @@
 # ShimmerEVM-Network
 Configuring Connection to ShimmerEVM Network
 # Prerequisites
-  -Metamask or any other wallet of your choice.
-  -Remix or any other development environment of your choice.
+  - Metamask or any other wallet of your choice.
+  - Remix or any other development environment of your choice.
 # Connect to ShimmerEVM
 -	First, let us setup our Metamask with the ShimmerEVM. 
 -	To add the ShimmerEVM network manually to your Metamask use following info:
